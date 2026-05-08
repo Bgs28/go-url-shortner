@@ -108,7 +108,7 @@ CREATE TABLE urls (
 
 **1. Clone and navigate into the project:**
 ```bash
-cd 08-url-shortener
+cd url-shortener
 ```
 
 **2. Copy and fill in the environment file:**
