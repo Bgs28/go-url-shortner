@@ -1,4 +1,4 @@
-# 08 — URL Shortener
+# URL Shortener
 
 A URL Shortener REST API built with native Go and MySQL, featuring short code generation, HTTP redirect, and click tracking.
 
